@@ -1,0 +1,15 @@
+# Core notebook support
+ipykernel
+# Data handling
+pandas
+numpy
+# Python built-in datasets
+gapminder
+nycflights13
+# Data visualisation
+matplotlib
+seaborn
+# Statistics
+scipy
+statsmodels
+scikit-learn
